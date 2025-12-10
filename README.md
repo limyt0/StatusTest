@@ -1,1 +1,1 @@
-# StatusTest
+# 상태창 구현
